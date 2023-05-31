@@ -50,7 +50,7 @@ body {
 
 .container__aviso {
     font-size: 12px;
-    color: var(--cinza-secundario);
+    color: var(--botao-azul-efeito);
 }
 
 .container__titulo {
@@ -145,7 +145,7 @@ body {
 }
 
 .lista__link a:active {
-    color: purple;
+    color: rgb(190, 26, 190);
 }
 
 .container__botao:hover {
